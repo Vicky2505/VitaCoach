@@ -111,7 +111,7 @@ class _GetStartScreenState extends State<GetStartScreen> {
                       ),
                     ],
                   ),
-                  SizedBox(height: 25.h),
+                  SizedBox(height: 18.h),
                   SizedBox(
                     width: double.infinity,
                     height: 50.h,
